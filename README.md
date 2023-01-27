@@ -28,5 +28,5 @@ Complete PENTACET DB DUMP
 
    [PlDb]: <https://github.com/M3SOulu/soccminer#readme>
    [PlGh]: <https://github.com/M3SOulu/NLoN#readme>
-   [PlDd]: <https://github.com/M3SOulu/pentacet/blob/main/satd_comments.tsv>
+   [PlDd]: <https://unioulu-my.sharepoint.com/:u:/g/personal/msridhar20_univ_yo_oulu_fi/EZokqNGBZDZLk9Tdtp9g0W0BsKruA9aUeeeX6hnY0CcD_A?e=9r7xCM>
    
