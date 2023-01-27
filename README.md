@@ -12,8 +12,14 @@ Important tools involved in PENTACET data construction:
 | SoCCMiner | [M3SOulu/soccminer#readme][PlDb] |
 | NLoN      | [M3SOulu/NLoN#readme][PlGh] |
 
-PENTACET DB DUMP
+
+For direct 500,000+ SATD comments download, please use the following.  It is a tsv file, separated by tab, it contains comment_id and comment_content. In can be easily loaded into pandas dataframe and can be used further.
+| [M3SOulu/pentacet#500k_satd_comments][PlDd] |
+
+Complete PENTACET DB DUMP
 [raw_soccminer_mined_data_and_db_dump][dill]
+
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -22,4 +28,5 @@ PENTACET DB DUMP
 
    [PlDb]: <https://github.com/M3SOulu/soccminer#readme>
    [PlGh]: <https://github.com/M3SOulu/NLoN#readme>
+   [PlDd]: <https://github.com/M3SOulu/pentacet/blob/main/satd_comments.tsv>
    
