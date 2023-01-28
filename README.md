@@ -9,7 +9,7 @@ The dataset is stored in a PostGRESQL DB dumb file.
 Important tools involved in PENTACET data construction:
 | Plugin | README |
 | ------ | ------ |
-| SoCCMiner | [M3SOulu/soccminer#readme] [SCDB] |
+| SoCCMiner | [M3SOulu/soccminer#readme][SCDB] |
 | NLoN | [M3SOulu/NLoN#readme][PlGh] |
 
 ## PENTACET DB DUMP
