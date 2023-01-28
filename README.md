@@ -11,6 +11,7 @@ Important tools involved in PENTACET data construction:
 | ------ | ------ |
 | SoCCMiner | [M3SOulu/soccminer#readme][PlDb] |
 | NLoN | [M3SOulu/NLoN#readme][PlGh] |
+| Sense2Vec | [explosion/sense2Vec#readme][PS2v] |
 
 ## 500000 SATD FILE
 For convenience, the 500,000+ SATD comments are stored in a separate TSV (tab separated) file along with comment_id.
@@ -39,4 +40,5 @@ pg_dump -U postgres -d pentacet  -f /location/pentacet_clean_and_load_dump.sql
 
    [PlDb]: <https://github.com/M3SOulu/soccminer#readme>
    [PlGh]: <https://github.com/M3SOulu/NLoN#readme>
+   [PS2v]: <https://github.com/explosion/sense2vec#readme>
    
