@@ -9,7 +9,7 @@ The dataset is stored in a PostGRESQL DB dumb file.
 Important tools involved in PENTACET data construction:
 | Plugin | README |
 | ------ | ------ |
-| SoCCMiner | [M3SOulu/soccminer#readme] [PlDb] |
+| SoCCMiner | [M3SOulu/soccminer#readme] [SCDB] |
 | NLoN | [M3SOulu/NLoN#readme][PlGh] |
 
 ## PENTACET DB DUMP
@@ -33,6 +33,6 @@ pg_dump -U postgres -d pentacet  -f /location/pentacet_clean_and_load_dump.sql
 
    [dill]: <https://unioulu-my.sharepoint.com/:f:/g/personal/msridhar20_univ_yo_oulu_fi/EmINC-0m1qBKjXs7mVn8otQBCAVDfefmCPIiP7d9FO3bTA?e=UBf1NWr>
 
-   [PlDb]: <https://github.com/M3SOulu/soccminer#readme>
+   [SCDB]: <https://github.com/M3SOulu/soccminer#readme>
    [PlGh]: <https://github.com/M3SOulu/NLoN#readme>
    
