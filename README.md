@@ -32,7 +32,7 @@ For convenience, the 500,000+ SATD comments are stored in a separate TSV (tab se
 
  #### For Linux based systems:
  #####
- Backup using plain sql
+ Restore using plain sql
  ```sh
  psql -U username -f /location/pentacet_plain_sql_dump.sql
  ```
