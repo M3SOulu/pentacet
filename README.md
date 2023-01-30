@@ -30,9 +30,17 @@ For convenience, the 500,000+ SATD comments are stored in a separate TSV (tab se
 6.	Choose the 'pentacet_clean_and_load_dump.sql' file from local download directory or where ever it is saved – This starts the restoration process and the DB will be restored for use within 30-40 minutes in system equipped with 16 GB RAM.
 
  #### For Linux based systems:
-```sh
-pg_dump -U postgres -d pentacet  -f /location/pentacet_clean_and_load_dump.sql
-```
+ #####
+ Backup using plain sql
+ ```sh
+ psql -U username -f /location/pentacet_plain_sql_dump.sql
+ ```
+ 
+ #####
+ Restore using pg_dump blob
+ ```sh
+ pg_restore -C -d pentacet /location/pentacet_clean_and_load_dump.sql
+ ```
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
