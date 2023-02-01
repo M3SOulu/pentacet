@@ -1,6 +1,6 @@
 import os
 import traceback
-from cmtool import CommentsMiner
+from soccminer import CommentsMiner
 import time
 import sys
 import glob
