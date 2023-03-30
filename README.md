@@ -45,7 +45,7 @@ For convenience, the 500,000+ SATD comments are stored in a separate TSV (tab se
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [dill]: <https://unioulu-my.sharepoint.com/:f:/g/personal/msridhar20_univ_yo_oulu_fi/EmINC-0m1qBKjXs7mVn8otQBCAVDfefmCPIiP7d9FO3bTA?e=lfeQg5>
+   [dill]: <https://zenodo.org/record/7757462#.ZCW08fZBxPY>
 
    [PlDb]: <https://github.com/M3SOulu/soccminer#readme>
    [PlGh]: <https://github.com/M3SOulu/NLoN#readme>
